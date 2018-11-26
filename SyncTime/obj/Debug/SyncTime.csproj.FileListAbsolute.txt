@@ -2,3 +2,4 @@ E:\Edward\Code\SyncTime\SyncTime\bin\Debug\SyncTime.exe
 E:\Edward\Code\SyncTime\SyncTime\bin\Debug\SyncTime.pdb
 E:\Edward\Code\SyncTime\SyncTime\obj\Debug\SyncTime.exe
 E:\Edward\Code\SyncTime\SyncTime\obj\Debug\SyncTime.pdb
+E:\Edward\Code\SyncTime\SyncTime\obj\Debug\SyncTime.csprojResolveAssemblyReference.cache
